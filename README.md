@@ -12,7 +12,7 @@ The workflow is divided into three key phases:
   1.1. **Database Migration:** Loaded the processed dataset into a PostgreSQL database utilizing `SQLAlchemy`.
 2. **Advanced SQL Analysis:** Formulated complex queries (window functions, CTEs, conditional logic) to extract deep financial insights and group risk factors.
 3. **Dashboard Visualization:** Developed an interactive data dashboard providing a high-level executive summary of the findings.
-![Insurance Dashboard](Insurance Data Dashboard.png)
+![Insurance Dashboard](Insurance%20Data%20Dashboard.png)
 
 ---
 
